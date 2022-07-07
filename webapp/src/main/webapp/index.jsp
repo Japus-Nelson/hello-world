@@ -31,7 +31,7 @@ G  <div class="container">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-    <h1> Thank You </h1>
+    <h1> Thankyou, Happy learning </h1>
 
   
 </form>
