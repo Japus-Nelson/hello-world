@@ -30,7 +30,7 @@ G  <div class="container">
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-    <h1> Japus </h1>
+    <h1> Japus Nelson </h1>
     <br>
     <h1> Thankyou, Happy learning </h1>
 
